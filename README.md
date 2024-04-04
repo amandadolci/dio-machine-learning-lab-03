@@ -24,7 +24,7 @@ Neste exercício, você criará um recurso AI Speech, a menos que já tenha um r
 
 3. Selecione Criar recurso. Aguarde até que o recurso seja criado e selecione Usar recurso . A página Introdução à Fala é exibida.
 
-### Explore a fala em texto no Speech Studio
+### Explore a fala para texto no Speech Studio
 
 1. Selecione **https://aka.ms/mslearn-speech-files** para baixar o **speech.zip**. Abra a pasta.
 
